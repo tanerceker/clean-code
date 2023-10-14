@@ -41,11 +41,11 @@ class UserSettings {}
 ```tsx
 // snake_case
 
-let user = { "first_name": "Taner", "last_name": "Çeker" }
+let user = { first_name: "Taner", last_name: "Çeker" };
 
 // SNAKE_CASE
 
-const MILLISECONDS_PER_DAY** = 60 * 60 * 24 * 1000; // 86400000
+const MILLISECONDS_PER_DAY = 60 * 60 * 24 * 1000; // 86400000
 ```
 
 <br/>
