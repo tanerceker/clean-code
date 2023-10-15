@@ -12,6 +12,8 @@ Daha iyi hale getirmek için yapabileceğiniz bariz bir şey yoktur.
 
 **(DRY)** Don’t Repeat Yourself — Kendini Tekrar Etme
 
+**(YAGNI)** You Aren't Gonna Need It — Buna İhtiyacın Olmayacak
+
 ---
 
 <br/>
