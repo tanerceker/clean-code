@@ -1,7 +1,5 @@
 # Clean Code
 
----
-
 Temiz kod her zaman önemseyen biri tarafından yazılmış gibi görünür.
 
 Daha iyi hale getirmek için yapabileceğiniz bariz bir şey yoktur.
