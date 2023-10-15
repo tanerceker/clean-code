@@ -8,14 +8,6 @@ Daha iyi hale getirmek için yapabileceğiniz bariz bir şey yoktur.
 
 ---
 
-**(KISS)** Keep It Simple, Stupid — Basit Tut, Aptal
-
-**(DRY)** Don’t Repeat Yourself — Kendini Tekrar Etme
-
-**(YAGNI)** You Aren't Gonna Need It — Buna İhtiyacın Olmayacak
-
----
-
 <br/>
 
 Name Casing — Ad Muhafazası
