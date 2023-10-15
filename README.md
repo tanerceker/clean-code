@@ -132,7 +132,7 @@ const task = {}   ✅
 
 <br/>
 
-Her zaman açık olun — Always be explicit
+Always be explicit — Her zaman açık olun
 
 ```tsx
 const daysOfTheWeek = ["Monday", "Tuesday", "Wednesday", "Thursday",
@@ -163,7 +163,7 @@ daysOfTheWeek.forEach(dayOfTheWeek => {   ✅
 
 <br/>
 
-Sabitlerin adlandırılması — Naming constants
+Naming constants — Sabitlerin adlandırılması
 
 ```tsx
 const MAX_NUMBER_OF_RETRY = 3;
@@ -181,7 +181,7 @@ for (let i = 0; i < maxNumberOfExecutions; i++) {
 
 <br/>
 
-Fonksiyon adlandırması — Function naming
+Function naming — Fonksiyon adlandırması
 
 ```tsx
 // Use verbs - Fiilleri kullanın
@@ -206,7 +206,7 @@ const fetchArticlesByCategoryName = () => {};
 
 <br/>
 
-Fonksiyonları kısa tutun — Keep short functions
+Keep short functions — Fonksiyonları kısa tutun
 
 ```tsx
 // 1. Fonksiyonların ilk kuralı küçük olmaları gerektiğidir.
@@ -288,7 +288,7 @@ function validateLoginFields(username, password) {
 
 <br/>
 
-Parametre yönetimi — Parameters management
+Parameters management — Parametre yönetimi
 
 ```tsx
 // Maksimum iki parametre kuralı
@@ -324,7 +324,7 @@ updateUserAdress({
 
 <br/>
 
-Varsayılan değerler — Default values
+Default values — Varsayılan değerler
 
 ```tsx
 function sleep(durationInMilliseconds) {   ❌
@@ -366,7 +366,7 @@ createTask({
 
 <br/>
 
-Bayrak parametreleri — Flag parameters
+Flag parameters — Bayrak parametreleri
 
 ```tsx
 // Bayrak (Flag) parametrelerini kullanmayın
@@ -413,7 +413,7 @@ function updateUser(isPremium) {   ✅
 
 <br/>
 
-Kaçınılması gereken şeyler — Things to avoid
+Things to avoid — Kaçınılması gereken şeyler
 
 ```tsx
 // Global / üst kapsam (upper-scope) değişkenleri kullanmaktan kaçının
@@ -443,7 +443,7 @@ function addItemToCart(cart, item) {   ✅
 
 <br/>
 
-Sınıflar veya Fonksiyonlar — Classes or Functions
+Classes or Functions — Sınıflar veya Fonksiyonlar
 
 ```tsx
 // Basit sınıflar yerine basit fonksiyonları tercih edin
@@ -453,7 +453,7 @@ Sınıflar veya Fonksiyonlar — Classes or Functions
 
 <br/>
 
-Bileşim veya Kalıtım — Composition or Inheritance
+Composition or Inheritance — Bileşim veya Kalıtım
 
 Kalıtım (Inheritance)
 → Örn. Kuş bir hayvandır. — Insan bir memelidir. (is-a)
@@ -513,7 +513,7 @@ class Order {
 
 <br/>
 
-Hataları görmezden gelmeyin — Don't ignore errors
+Don't ignore errors — Hataları görmezden gelmeyin
 
 ```tsx
 // Hatalar görmezden gelinemez.
@@ -536,7 +536,7 @@ try {
 
 <br/>
 
-Fonksiyonlar için JSdoc kullanılabilir — Use JSdoc for functions
+Use JSdoc for functions — Fonksiyonlar için JSdoc kullanılabilir
 
 ```tsx
 /**
