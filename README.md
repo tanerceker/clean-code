@@ -556,7 +556,3 @@ function validateLoginFields(email, password) {
   return true;
 }
 ```
-
----
-
-— Taner Çeker tarafından hazırlanmıştır.
